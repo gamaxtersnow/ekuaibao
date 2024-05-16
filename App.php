@@ -10,7 +10,7 @@ use GuzzleHttp\Client;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Reference;
 
-class EKuaiBao extends ContainerBuilder
+class App extends ContainerBuilder
 {
     /**
      * @var ArrayCollection
