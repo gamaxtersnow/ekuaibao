@@ -1,6 +1,6 @@
 {
-    "name": "pithyone/wechat",
-    "description": "企业微信SDK",
+    "name": "gamaxtersnow/ekuaibao",
+    "description": "易快报 SDK",
     "type": "library",
     "license": "MIT",
     "require": {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "WeWork\\": "src/"
+            "eKuaiBao\\": "src/"
         }
     },
     "config": {
